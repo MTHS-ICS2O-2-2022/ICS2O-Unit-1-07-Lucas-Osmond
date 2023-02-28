@@ -6,4 +6,11 @@
 /* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
 */
 
-.
+.mdl-ripple {
+  background-color: black;
+  opacity: 0.001;
+}
+
+.mdl-layout__header-row {
+  
+}
