@@ -21,7 +21,7 @@
   padding-top: 15pt;
 }
 
-.page-content {
+.mdl-textfield__error {
   color: rgba(3, 36, 107, 0.245);
 }
 
@@ -31,6 +31,6 @@
   font-size: 1.25rem;
 }
 
-.body {
-  background-color: rgb(190, 180, 140);
+body {
+  background-color: cornsilk;
 }
